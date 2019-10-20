@@ -1,4 +1,4 @@
-#Instalation
+# Instalation
 
  - Follow the gide to install react-native cli:
 https://facebook.github.io/react-native/docs/getting-started
